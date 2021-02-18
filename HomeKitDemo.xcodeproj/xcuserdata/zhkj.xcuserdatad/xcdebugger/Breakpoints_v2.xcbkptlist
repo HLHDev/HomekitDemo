@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F1459B1E-94EF-46AE-9724-EC357FBADEA1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B969F4A7-33D7-4003-9DA7-D23638F61C48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeKitDemo/currentRoomVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B969F4A7-33D7-4003-9DA7-D23638F61C48 - 40f776a7fbb14ca3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentRoomVC tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "HomeKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhkj/Downloads/myHomeKit-master/HomeKitDemo/currentRoomVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "B969F4A7-33D7-4003-9DA7-D23638F61C48 - e345693772583f4d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__51-[currentRoomVC tableView:didSelectRowAtIndexPath:]_block_invoke"
+                  moduleName = "HomeKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhkj/Downloads/myHomeKit-master/HomeKitDemo/currentRoomVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "B969F4A7-33D7-4003-9DA7-D23638F61C48 - c863437728806456"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_e8_32s40w"
+                  moduleName = "HomeKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhkj/Downloads/myHomeKit-master/HomeKitDemo/currentRoomVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
